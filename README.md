@@ -10,7 +10,7 @@ Run the assembly generation command from the Developer PowerShell, not the norma
 ## Some assembly Hello World Tutorial
 
 ```
-https://wwwf.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond
+https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond
 ```
 
 ## And some more
