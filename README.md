@@ -18,3 +18,10 @@ https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond
 ```
 https://www.youtube.com/watch?v=b0zxIfJJLAY&ab_channel=Dave%27sGarage
 ```
+
+### MASM32 Is Required
+
+This is a standalone project, that is not installed together with VS
+```
+https://www.masm32.com/
+```
