@@ -1,6 +1,7 @@
 # ShellcodeGenerator
 
-## 
+## Shellcode generation process in general
+
 ```
 https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c
 ```
@@ -13,7 +14,7 @@ Run the assembly generation command from the Developer PowerShell, not the norma
 https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond
 ```
 
-## And some more
+## World's Smallest Windows App in x86 ASM by Dave's Garage
 
 ```
 https://www.youtube.com/watch?v=b0zxIfJJLAY&ab_channel=Dave%27sGarage
