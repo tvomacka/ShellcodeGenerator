@@ -26,4 +26,4 @@ Compile in a Developer command prompt with:
 ```
 ml /coff HelloAssembly.asm
 ```
-Note for some reason, this does not compile correctly with the VS's ml.exe, but it compiles ok with the MASM32's ml.exe.
+_For some reason, this does not compile correctly with the VS's ml.exe, but it compiles ok with the MASM32's ml.exe._
